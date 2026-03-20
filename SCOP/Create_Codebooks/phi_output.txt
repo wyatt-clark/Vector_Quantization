@@ -1,0 +1,1304 @@
+2012-05-17 11:40:33.083 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.086 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.087 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.088 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.090 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.091 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.092 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.094 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.095 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.096 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.098 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.100 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.117 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.119 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.125 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.133 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.135 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.136 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:33.140 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2010 The MathWorks, Inc.
+                Version 7.12.0.635 (R2011a) 64-bit (maci64)
+                               March 18, 2011
+
+2012-05-17 11:40:34.600 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.603 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.605 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.606 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.608 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.610 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.612 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.614 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.617 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.619 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.621 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.623 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.625 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.627 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.629 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.630 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.632 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.634 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.636 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.637 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.639 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.640 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.642 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.644 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.646 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.647 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.649 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.650 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.652 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.653 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.655 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.656 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.658 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.659 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.661 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.663 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.664 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.666 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.668 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.669 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.671 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.673 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:40:34.674 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+ 
+  To get started, type one of these: helpwin, helpdesk, or demo.
+  For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+properties = 
+
+    'Phi'
+
+>> >> ../DATA/Centroids/Phi_M_4_N_4
+starting to cluster
+2012-05-17 11:40:37.933 MATLAB_maci64[7209:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+  iter	 phase	     num	         sum
+     1	     1	  446192	      912501
+     2	     1	   13118	      896479
+     3	     1	    3730	      895860
+     4	     1	    1159	      895805
+     5	     1	     500	      895790
+     6	     1	     265	      895786
+     7	     1	     148	      895785
+     8	     1	      72	      895784
+     9	     1	      49	      895784
+    10	     1	      29	      895784
+    11	     1	      24	      895784
+    12	     1	       6	      895784
+    13	     1	       4	      895784
+    14	     1	       4	      895784
+    15	     1	       2	      895784
+    16	     1	       1	      895784
+    17	     1	       1	      895784
+    18	     2	       1	      895784
+18 iterations, total sum of distances = 895784
+../DATA/Centroids/Phi_M_4_N_8
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  220556	 1.47852e+06
+     2	     1	   27877	 1.32683e+06
+     3	     1	   23626	 1.14369e+06
+     4	     1	    8787	 1.11201e+06
+     5	     1	    4991	 1.09743e+06
+     6	     1	    2552	 1.08898e+06
+     7	     1	    1005	 1.08613e+06
+     8	     1	     231	 1.08586e+06
+     9	     1	      53	 1.08585e+06
+    10	     1	      10	 1.08585e+06
+    11	     1	       2	 1.08585e+06
+    12	     2	       1	 1.08585e+06
+12 iterations, total sum of distances = 1.08585e+06
+../DATA/Centroids/Phi_M_4_N_16
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  107786	 1.53467e+06
+     2	     1	   19428	 1.26877e+06
+     3	     1	    5020	 1.19915e+06
+     4	     1	    2169	 1.18633e+06
+     5	     1	     316	  1.1856e+06
+     6	     1	      41	 1.18559e+06
+     7	     1	       6	 1.18559e+06
+     8	     1	       1	 1.18559e+06
+     9	     2	       1	 1.18559e+06
+9 iterations, total sum of distances = 1.18559e+06
+../DATA/Centroids/Phi_M_4_N_32
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	   51340	 1.21659e+06
+     2	     1	    3770	 1.18924e+06
+     3	     1	    2486	 1.18658e+06
+     4	     1	    2181	 1.18505e+06
+     5	     1	    2133	 1.18368e+06
+     6	     1	    2193	 1.18239e+06
+     7	     1	    2118	 1.18131e+06
+     8	     1	    1968	 1.18049e+06
+     9	     1	    1754	 1.17991e+06
+    10	     1	    1556	 1.17945e+06
+    11	     1	    1436	 1.17905e+06
+    12	     1	    1463	 1.17861e+06
+    13	     1	    1483	  1.1781e+06
+    14	     1	    1548	  1.1775e+06
+    15	     1	    1576	 1.17679e+06
+    16	     1	    1646	 1.17595e+06
+    17	     1	    1672	 1.17508e+06
+    18	     1	    1548	 1.17429e+06
+    19	     1	    1423	 1.17366e+06
+    20	     1	    1189	 1.17319e+06
+    21	     1	     990	 1.17284e+06
+    22	     1	     821	 1.17261e+06
+    23	     1	     612	 1.17248e+06
+    24	     1	     420	 1.17242e+06
+    25	     1	     277	  1.1724e+06
+    26	     1	     210	 1.17239e+06
+    27	     1	     161	 1.17238e+06
+    28	     1	     105	 1.17237e+06
+    29	     1	      79	 1.17237e+06
+    30	     1	      59	 1.17237e+06
+    31	     1	      57	 1.17237e+06
+    32	     1	      41	 1.17237e+06
+    33	     1	      34	 1.17237e+06
+    34	     1	      28	 1.17237e+06
+    35	     1	      25	 1.17237e+06
+    36	     1	      17	 1.17237e+06
+    37	     1	      12	 1.17237e+06
+    38	     1	       8	 1.17237e+06
+    39	     1	       4	 1.17237e+06
+    40	     1	       1	 1.17237e+06
+    41	     1	       2	 1.17237e+06
+    42	     1	       3	 1.17237e+06
+    43	     1	       7	 1.17237e+06
+    44	     1	       9	 1.17237e+06
+    45	     1	      10	 1.17237e+06
+    46	     1	       5	 1.17237e+06
+    47	     1	       9	 1.17237e+06
+    48	     1	       8	 1.17237e+06
+    49	     1	       4	 1.17237e+06
+    50	     1	       5	 1.17237e+06
+    51	     1	       5	 1.17237e+06
+    52	     1	       2	 1.17237e+06
+    53	     1	       3	 1.17237e+06
+    54	     1	       4	 1.17237e+06
+    55	     1	       5	 1.17237e+06
+    56	     1	       7	 1.17237e+06
+    57	     1	       7	 1.17237e+06
+    58	     1	       6	 1.17237e+06
+    59	     1	       2	 1.17237e+06
+    60	     1	       3	 1.17237e+06
+    61	     2	      21	 1.17237e+06
+    62	     2	      10	 1.17237e+06
+    63	     2	       6	 1.17237e+06
+    64	     2	       6	 1.17237e+06
+    65	     2	       1	 1.17237e+06
+65 iterations, total sum of distances = 1.17237e+06
+../DATA/Centroids/Phi_M_16_N_4
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  446192	      500508
+     2	     1	   86634	      393009
+     3	     1	   39961	      374345
+     4	     1	   24153	      361078
+     5	     1	   14158	      357273
+     6	     1	   10436	      356273
+     7	     1	    9631	      355583
+     8	     1	    9848	      354897
+     9	     1	   10243	      354187
+    10	     1	    9983	      353545
+    11	     1	    8620	      353044
+    12	     1	    7181	      352668
+    13	     1	    6147	      352393
+    14	     1	    5119	      352199
+    15	     1	    4506	      352056
+    16	     1	    4086	      351944
+    17	     1	    3589	      351859
+    18	     1	    3220	      351789
+    19	     1	    2889	      351730
+    20	     1	    2673	      351675
+    21	     1	    2622	      351620
+    22	     1	    2672	      351561
+    23	     1	    2725	      351497
+    24	     1	    2694	      351429
+    25	     1	    2728	      351359
+    26	     1	    2648	      351293
+    27	     1	    2690	      351222
+    28	     1	    2610	      351153
+    29	     1	    2525	      351088
+    30	     1	    2557	      351022
+    31	     1	    2575	      350955
+    32	     1	    2443	      350890
+    33	     1	    2320	      350835
+    34	     1	    2165	      350785
+    35	     1	    2038	      350746
+    36	     1	    1772	      350715
+    37	     1	    1543	      350691
+    38	     1	    1327	      350674
+    39	     1	    1091	      350661
+    40	     1	     960	      350652
+    41	     1	     893	      350645
+    42	     1	     776	      350639
+    43	     1	     640	      350635
+    44	     1	     576	      350632
+    45	     1	     490	      350629
+    46	     1	     462	      350628
+    47	     1	     443	      350626
+    48	     1	     439	      350624
+    49	     1	     402	      350623
+    50	     1	     410	      350621
+    51	     1	     395	      350619
+    52	     1	     368	      350618
+    53	     1	     367	      350617
+    54	     1	     346	      350616
+    55	     1	     315	      350614
+    56	     1	     309	      350614
+    57	     1	     254	      350613
+    58	     1	     245	      350612
+    59	     1	     219	      350612
+    60	     1	     227	      350611
+    61	     1	     195	      350611
+    62	     1	     172	      350611
+    63	     1	     165	      350610
+    64	     1	     149	      350610
+    65	     1	     134	      350610
+    66	     1	     118	      350610
+    67	     1	     109	      350610
+    68	     1	     117	      350610
+    69	     1	     126	      350610
+    70	     1	     120	      350609
+    71	     1	     118	      350609
+    72	     1	     120	      350609
+    73	     1	     112	      350609
+    74	     1	     102	      350609
+    75	     1	     111	      350609
+    76	     1	     109	      350609
+    77	     1	      99	      350608
+    78	     1	     101	      350608
+    79	     1	     103	      350608
+    80	     1	      91	      350608
+    81	     1	      89	      350608
+    82	     1	      83	      350608
+    83	     1	      86	      350608
+    84	     1	      66	      350608
+    85	     1	      63	      350608
+    86	     1	      63	      350608
+    87	     1	      67	      350608
+    88	     1	      78	      350608
+    89	     1	      85	      350608
+    90	     1	      70	      350607
+    91	     1	      55	      350607
+    92	     1	      50	      350607
+    93	     1	      53	      350607
+    94	     1	      51	      350607
+    95	     1	      55	      350607
+    96	     1	      55	      350607
+    97	     1	      45	      350607
+    98	     1	      35	      350607
+    99	     1	      38	      350607
+   100	     1	      40	      350607
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 350607
+../DATA/Centroids/Phi_M_16_N_8
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  220556	      720854
+     2	     1	   38861	      657326
+     3	     1	   26430	      606890
+     4	     1	   15668	      578051
+     5	     1	    8186	      571999
+     6	     1	    5978	      570558
+     7	     1	    4429	      569776
+     8	     1	    4200	      568967
+     9	     1	    4416	      567936
+    10	     1	    4820	      566622
+    11	     1	    5458	      564891
+    12	     1	    6037	      562639
+    13	     1	    6488	      560001
+    14	     1	    6987	      556542
+    15	     1	    8704	      549591
+    16	     1	    9480	      534743
+    17	     1	    4244	      531762
+    18	     1	    2399	      531472
+    19	     1	    1616	      531345
+    20	     1	    1298	      531262
+    21	     1	    1064	      531202
+    22	     1	     909	      531159
+    23	     1	     811	      531126
+    24	     1	     715	      531101
+    25	     1	     607	      531082
+    26	     1	     498	      531068
+    27	     1	     484	      531056
+    28	     1	     413	      531047
+    29	     1	     333	      531041
+    30	     1	     258	      531037
+    31	     1	     265	      531033
+    32	     1	     224	      531031
+    33	     1	     192	      531029
+    34	     1	     183	      531027
+    35	     1	     157	      531026
+    36	     1	     147	      531025
+    37	     1	     130	      531024
+    38	     1	     116	      531023
+    39	     1	      96	      531023
+    40	     1	      74	      531023
+    41	     1	      60	      531022
+    42	     1	      70	      531022
+    43	     1	      53	      531022
+    44	     1	      55	      531022
+    45	     1	      61	      531022
+    46	     1	      49	      531021
+    47	     1	      36	      531021
+    48	     1	      26	      531021
+    49	     1	      19	      531021
+    50	     1	      14	      531021
+    51	     1	       9	      531021
+    52	     1	       3	      531021
+    53	     1	       1	      531021
+    54	     2	       8	      531021
+    55	     2	       1	      531021
+55 iterations, total sum of distances = 531021
+../DATA/Centroids/Phi_M_16_N_16
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  107786	      996367
+     2	     1	   26297	      926917
+     3	     1	   11142	      902506
+     4	     1	    7925	      880844
+     5	     1	    5853	      868983
+     6	     1	    4052	      863353
+     7	     1	    2679	      860239
+     8	     1	    1321	      858888
+     9	     1	     617	      858804
+    10	     1	     341	      858782
+    11	     1	     221	      858771
+    12	     1	     155	      858765
+    13	     1	     119	      858762
+    14	     1	      95	      858760
+    15	     1	      81	      858758
+    16	     1	      72	      858757
+    17	     1	      50	      858756
+    18	     1	      38	      858755
+    19	     1	      33	      858755
+    20	     1	      35	      858755
+    21	     1	      31	      858754
+    22	     1	      26	      858754
+    23	     1	      19	      858754
+    24	     1	      17	      858754
+    25	     1	      12	      858754
+    26	     1	       9	      858754
+    27	     1	      11	      858754
+    28	     1	      11	      858753
+    29	     1	      11	      858753
+    30	     1	       9	      858753
+    31	     1	       7	      858753
+    32	     1	       8	      858753
+    33	     1	       5	      858753
+    34	     1	       2	      858753
+    35	     1	       3	      858753
+    36	     1	       1	      858753
+    37	     1	       1	      858753
+    38	     1	       1	      858753
+    39	     2	       7	      858753
+    40	     2	       4	      858753
+    41	     2	       2	      858753
+41 iterations, total sum of distances = 858753
+../DATA/Centroids/Phi_M_16_N_32
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	   51340	 1.10435e+06
+     2	     1	   12552	 1.06268e+06
+     3	     1	    9373	 1.04032e+06
+     4	     1	    6445	 1.02533e+06
+     5	     1	    4019	 1.01942e+06
+     6	     1	    2581	 1.01611e+06
+     7	     1	    1559	 1.01479e+06
+     8	     1	    1132	 1.01385e+06
+     9	     1	     858	 1.01303e+06
+    10	     1	     756	 1.01199e+06
+    11	     1	     676	 1.01168e+06
+    12	     1	     579	 1.01151e+06
+    13	     1	     599	 1.01128e+06
+    14	     1	     737	 1.01091e+06
+    15	     1	    1004	 1.01007e+06
+    16	     1	    1209	 1.00829e+06
+    17	     1	    1166	 1.00619e+06
+    18	     1	     823	 1.00458e+06
+    19	     1	     364	 1.00415e+06
+    20	     1	     214	 1.00411e+06
+    21	     1	      91	 1.00411e+06
+    22	     1	      74	  1.0041e+06
+    23	     1	      49	  1.0041e+06
+    24	     1	      40	  1.0041e+06
+    25	     1	      25	  1.0041e+06
+    26	     1	      19	  1.0041e+06
+    27	     1	      15	  1.0041e+06
+    28	     1	      16	  1.0041e+06
+    29	     1	      13	  1.0041e+06
+    30	     1	      17	  1.0041e+06
+    31	     1	      12	  1.0041e+06
+    32	     1	      12	  1.0041e+06
+    33	     1	      12	  1.0041e+06
+    34	     1	      14	  1.0041e+06
+    35	     1	       4	  1.0041e+06
+    36	     1	       3	  1.0041e+06
+    37	     1	       3	  1.0041e+06
+    38	     1	       4	  1.0041e+06
+    39	     1	       4	  1.0041e+06
+    40	     1	       8	  1.0041e+06
+    41	     1	       7	  1.0041e+06
+    42	     1	       5	  1.0041e+06
+    43	     1	       9	  1.0041e+06
+    44	     1	      13	  1.0041e+06
+    45	     1	      11	  1.0041e+06
+    46	     1	       8	  1.0041e+06
+    47	     1	       8	  1.0041e+06
+    48	     1	       5	  1.0041e+06
+    49	     1	       1	  1.0041e+06
+    50	     1	       2	  1.0041e+06
+    51	     1	       1	  1.0041e+06
+    52	     2	      28	  1.0041e+06
+    53	     2	      17	  1.0041e+06
+    54	     2	      13	  1.0041e+06
+    55	     2	       2	  1.0041e+06
+55 iterations, total sum of distances = 1.0041e+06
+../DATA/Centroids/Phi_M_64_N_4
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  446192	      260764
+     2	     1	   94258	      188212
+     3	     1	   55864	      159735
+     4	     1	   41223	      152970
+     5	     1	   34496	      147104
+     6	     1	   28703	      142439
+     7	     1	   24938	      138347
+     8	     1	   21279	      135718
+     9	     1	   18714	      134935
+    10	     1	   16965	      134487
+    11	     1	   15614	      134139
+    12	     1	   14736	      133836
+    13	     1	   13612	      133576
+    14	     1	   12409	      133359
+    15	     1	   11513	      133171
+    16	     1	   10381	      133017
+    17	     1	    9587	      132879
+    18	     1	    8719	      132757
+    19	     1	    8096	      132653
+    20	     1	    7511	      132554
+    21	     1	    7020	      132463
+    22	     1	    6575	      132353
+    23	     1	    6173	      132088
+    24	     1	    5995	      130756
+    25	     1	    5195	      130723
+    26	     1	    4853	      130695
+    27	     1	    4680	      130673
+    28	     1	    4454	      130653
+    29	     1	    4255	      130634
+    30	     1	    4203	      130618
+    31	     1	    4089	      130602
+    32	     1	    4042	      130587
+    33	     1	    3854	      130572
+    34	     1	    3848	      130557
+    35	     1	    3821	      130543
+    36	     1	    3671	      130529
+    37	     1	    3553	      130514
+    38	     1	    3500	      130499
+    39	     1	    3366	      130485
+    40	     1	    3146	      130472
+    41	     1	    2994	      130460
+    42	     1	    2900	      130450
+    43	     1	    2768	      130440
+    44	     1	    2572	      130431
+    45	     1	    2465	      130424
+    46	     1	    2451	      130417
+    47	     1	    2417	      130410
+    48	     1	    2373	      130403
+    49	     1	    2355	      130396
+    50	     1	    2359	      130390
+    51	     1	    2359	      130383
+    52	     1	    2306	      130376
+    53	     1	    2214	      130370
+    54	     1	    2112	      130364
+    55	     1	    2177	      130358
+    56	     1	    2104	      130352
+    57	     1	    2027	      130347
+    58	     1	    1977	      130343
+    59	     1	    2007	      130338
+    60	     1	    1942	      130334
+    61	     1	    1850	      130330
+    62	     1	    1928	      130326
+    63	     1	    1978	      130322
+    64	     1	    1962	      130317
+    65	     1	    1986	      130312
+    66	     1	    2005	      130308
+    67	     1	    2002	      130304
+    68	     1	    2050	      130300
+    69	     1	    2127	      130296
+    70	     1	    2094	      130293
+    71	     1	    2128	      130289
+    72	     1	    2184	      130286
+    73	     1	    2252	      130282
+    74	     1	    2362	      130277
+    75	     1	    2404	      130273
+    76	     1	    2437	      130268
+    77	     1	    2592	      130264
+    78	     1	    2693	      130259
+    79	     1	    2697	      130255
+    80	     1	    2705	      130250
+    81	     1	    2786	      130244
+    82	     1	    2735	      130239
+    83	     1	    2661	      130234
+    84	     1	    2668	      130230
+    85	     1	    2729	      130224
+    86	     1	    2732	      130219
+    87	     1	    2786	      130213
+    88	     1	    2719	      130207
+    89	     1	    2768	      130201
+    90	     1	    2685	      130194
+    91	     1	    2679	      130188
+    92	     1	    2685	      130181
+    93	     1	    2661	      130173
+    94	     1	    2652	      130166
+    95	     1	    2662	      130158
+    96	     1	    2721	      130150
+    97	     1	    2685	      130141
+    98	     1	    2612	      130131
+    99	     1	    2661	      130122
+   100	     1	    2603	      130113
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 130113
+../DATA/Centroids/Phi_M_64_N_8
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  220556	      450572
+     2	     1	   43726	      414822
+     3	     1	   27715	      395115
+     4	     1	   18833	      385073
+     5	     1	   14455	      376500
+     6	     1	   11339	      369356
+     7	     1	    8630	      367468
+     8	     1	    7399	      366497
+     9	     1	    6847	      363695
+    10	     1	    6175	      359890
+    11	     1	    5307	      358652
+    12	     1	    4950	      358075
+    13	     1	    4544	      357535
+    14	     1	    3984	      357290
+    15	     1	    3833	      357013
+    16	     1	    3834	      356325
+    17	     1	    3756	      354797
+    18	     1	    3157	      354327
+    19	     1	    2658	      354241
+    20	     1	    2300	      354172
+    21	     1	    1971	      354116
+    22	     1	    1772	      354068
+    23	     1	    1579	      354026
+    24	     1	    1535	      353984
+    25	     1	    1417	      353945
+    26	     1	    1312	      353909
+    27	     1	    1271	      353876
+    28	     1	    1190	      353849
+    29	     1	    1142	      353824
+    30	     1	    1105	      353799
+    31	     1	    1082	      353770
+    32	     1	    1072	      353737
+    33	     1	    1028	      353706
+    34	     1	     970	      353678
+    35	     1	     890	      353656
+    36	     1	     840	      353635
+    37	     1	     816	      353616
+    38	     1	     829	      353598
+    39	     1	     739	      353580
+    40	     1	     677	      353565
+    41	     1	     647	      353551
+    42	     1	     590	      353540
+    43	     1	     559	      353530
+    44	     1	     538	      353522
+    45	     1	     493	      353515
+    46	     1	     475	      353508
+    47	     1	     483	      353500
+    48	     1	     488	      353492
+    49	     1	     498	      353485
+    50	     1	     486	      353478
+    51	     1	     449	      353472
+    52	     1	     453	      353464
+    53	     1	     465	      353456
+    54	     1	     443	      353449
+    55	     1	     433	      353441
+    56	     1	     440	      353433
+    57	     1	     424	      353425
+    58	     1	     399	      353417
+    59	     1	     413	      353409
+    60	     1	     419	      353399
+    61	     1	     394	      353391
+    62	     1	     379	      353383
+    63	     1	     386	      353373
+    64	     1	     405	      353363
+    65	     1	     459	      353353
+    66	     1	     475	      353345
+    67	     1	     458	      353337
+    68	     1	     443	      353331
+    69	     1	     404	      353325
+    70	     1	     395	      353320
+    71	     1	     370	      353316
+    72	     1	     347	      353312
+    73	     1	     322	      353308
+    74	     1	     312	      353304
+    75	     1	     305	      353300
+    76	     1	     321	      353295
+    77	     1	     318	      353288
+    78	     1	     337	      353282
+    79	     1	     399	      353274
+    80	     1	     414	      353264
+    81	     1	     357	      353257
+    82	     1	     337	      353248
+    83	     1	     389	      353240
+    84	     1	     396	      353230
+    85	     1	     417	      353220
+    86	     1	     412	      353210
+    87	     1	     389	      353201
+    88	     1	     396	      353192
+    89	     1	     381	      353184
+    90	     1	     396	      353176
+    91	     1	     369	      353170
+    92	     1	     362	      353164
+    93	     1	     331	      353159
+    94	     1	     343	      353153
+    95	     1	     319	      353148
+    96	     1	     298	      353145
+    97	     1	     262	      353142
+    98	     1	     240	      353139
+    99	     1	     232	      353137
+   100	     1	     225	      353136
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 353136
+../DATA/Centroids/Phi_M_64_N_16
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  107786	      746903
+     2	     1	   32546	      656585
+     3	     1	   18914	      614619
+     4	     1	   12286	      591943
+     5	     1	    8599	      582054
+     6	     1	    5813	      577324
+     7	     1	    4065	      572927
+     8	     1	    2718	      571015
+     9	     1	    1945	      570228
+    10	     1	    1627	      569645
+    11	     1	    1523	      568500
+    12	     1	    1310	      566381
+    13	     1	     849	      565376
+    14	     1	     517	      565273
+    15	     1	     443	      565253
+    16	     1	     371	      565239
+    17	     1	     299	      565229
+    18	     1	     283	      565220
+    19	     1	     252	      565213
+    20	     1	     252	      565206
+    21	     1	     207	      565200
+    22	     1	     200	      565196
+    23	     1	     197	      565190
+    24	     1	     184	      565186
+    25	     1	     167	      565181
+    26	     1	     147	      565179
+    27	     1	     126	      565176
+    28	     1	     132	      565174
+    29	     1	     113	      565171
+    30	     1	     112	      565170
+    31	     1	     118	      565168
+    32	     1	     117	      565166
+    33	     1	     101	      565164
+    34	     1	      98	      565163
+    35	     1	      98	      565161
+    36	     1	      86	      565159
+    37	     1	      83	      565158
+    38	     1	      92	      565156
+    39	     1	      95	      565154
+    40	     1	      96	      565153
+    41	     1	      94	      565151
+    42	     1	      94	      565149
+    43	     1	      96	      565147
+    44	     1	     103	      565145
+    45	     1	     113	      565143
+    46	     1	     118	      565140
+    47	     1	     115	      565138
+    48	     1	     135	      565135
+    49	     1	     111	      565133
+    50	     1	     124	      565130
+    51	     1	     131	      565128
+    52	     1	     114	      565126
+    53	     1	     120	      565123
+    54	     1	     123	      565121
+    55	     1	     115	      565119
+    56	     1	     121	      565116
+    57	     1	     115	      565115
+    58	     1	     101	      565113
+    59	     1	     113	      565111
+    60	     1	     104	      565109
+    61	     1	      97	      565108
+    62	     1	      97	      565106
+    63	     1	      83	      565106
+    64	     1	      99	      565104
+    65	     1	      83	      565103
+    66	     1	      76	      565102
+    67	     1	      63	      565101
+    68	     1	      65	      565100
+    69	     1	      57	      565100
+    70	     1	      53	      565099
+    71	     1	      48	      565099
+    72	     1	      60	      565098
+    73	     1	      60	      565098
+    74	     1	      63	      565097
+    75	     1	      58	      565097
+    76	     1	      54	      565096
+    77	     1	      51	      565096
+    78	     1	      47	      565095
+    79	     1	      39	      565095
+    80	     1	      36	      565095
+    81	     1	      28	      565095
+    82	     1	      20	      565095
+    83	     1	      12	      565095
+    84	     1	       5	      565095
+    85	     1	       1	      565095
+    86	     1	       3	      565095
+    87	     1	       3	      565095
+    88	     1	       2	      565095
+    89	     1	       2	      565095
+    90	     1	       1	      565095
+    91	     1	       1	      565095
+    92	     1	       4	      565095
+    93	     2	      86	      565093
+    94	     2	      85	      565092
+    95	     2	      76	      565092
+    96	     2	      55	      565092
+    97	     2	      43	      565091
+    98	     2	      38	      565091
+    99	     2	      20	      565091
+   100	     2	       9	      565091
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 565091
+../DATA/Centroids/Phi_M_64_N_32
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	   51340	      935934
+     2	     1	   17543	      843866
+     3	     1	    9733	      809602
+     4	     1	    5954	      795458
+     5	     1	    4108	      787781
+     6	     1	    2563	      784146
+     7	     1	    1755	      782049
+     8	     1	    1330	      780321
+     9	     1	    1020	      779181
+    10	     1	     895	      778302
+    11	     1	     796	      777111
+    12	     1	     784	      776178
+    13	     1	     929	      774723
+    14	     1	     680	      773640
+    15	     1	     394	      772594
+    16	     1	     276	      772402
+    17	     1	     218	      772363
+    18	     1	     216	      772321
+    19	     1	     197	      772279
+    20	     1	     195	      772231
+    21	     1	     179	      772189
+    22	     1	     148	      772161
+    23	     1	     143	      772139
+    24	     1	     128	      772119
+    25	     1	     115	      772102
+    26	     1	     123	      772078
+    27	     1	     141	      772046
+    28	     1	     141	      772005
+    29	     1	     177	      771933
+    30	     1	     281	      771756
+    31	     1	     438	      771210
+    32	     1	     495	      770203
+    33	     1	     324	      770005
+    34	     1	     202	      769959
+    35	     1	     150	      769930
+    36	     1	     123	      769904
+    37	     1	     121	      769880
+    38	     1	      93	      769863
+    39	     1	     104	      769847
+    40	     1	     113	      769828
+    41	     1	      89	      769815
+    42	     1	      87	      769805
+    43	     1	      57	      769799
+    44	     1	      53	      769793
+    45	     1	      48	      769788
+    46	     1	      49	      769783
+    47	     1	      57	      769778
+    48	     1	      49	      769774
+    49	     1	      57	      769767
+    50	     1	      46	      769762
+    51	     1	      43	      769758
+    52	     1	      29	      769756
+    53	     1	      29	      769754
+    54	     1	      18	      769754
+    55	     1	      13	      769753
+    56	     1	      13	      769752
+    57	     1	      12	      769752
+    58	     1	      13	      769751
+    59	     1	      10	      769751
+    60	     1	       6	      769751
+    61	     1	       2	      769751
+    62	     1	       2	      769751
+    63	     1	       6	      769751
+    64	     1	       6	      769751
+    65	     1	       3	      769751
+    66	     1	       2	      769751
+    67	     1	       5	      769750
+    68	     1	       3	      769750
+    69	     1	       1	      769750
+    70	     2	      89	      769732
+    71	     2	      46	      769732
+    72	     2	      34	      769731
+    73	     2	      22	      769731
+    74	     2	      14	      769731
+    75	     2	      10	      769731
+    76	     2	       5	      769731
+    77	     2	      10	      769731
+    78	     2	       7	      769730
+    79	     2	       7	      769730
+    80	     2	      14	      769730
+    81	     2	       4	      769730
+81 iterations, total sum of distances = 769730
+../DATA/Centroids/Phi_M_256_N_4
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  446192	      127601
+     2	     1	   90088	      105226
+     3	     1	   53889	     80348.8
+     4	     1	   38584	     76228.1
+     5	     1	   31205	     74787.5
+     6	     1	   26482	     73950.1
+     7	     1	   23411	     73163.7
+     8	     1	   21680	     72421.8
+     9	     1	   20278	     71777.8
+    10	     1	   19255	     71079.2
+    11	     1	   18338	     69866.4
+    12	     1	   16909	     69194.9
+    13	     1	   15716	     68922.3
+    14	     1	   15031	     68681.7
+    15	     1	   14312	     68446.3
+    16	     1	   13698	       68138
+    17	     1	   13145	     67813.3
+    18	     1	   12690	     67639.7
+    19	     1	   12072	     67514.9
+    20	     1	   11399	     67409.6
+    21	     1	   10775	     67316.3
+    22	     1	   10206	     67233.6
+    23	     1	    9536	       67159
+    24	     1	    9039	       67087
+    25	     1	    8723	     67007.1
+    26	     1	    8459	     66920.4
+    27	     1	    8196	     66819.9
+2012-05-17 11:50:33.018 MATLAB_maci64[7209:a333] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+    28	     1	    8269	     66695.9
+    29	     1	    8125	     66611.7
+    30	     1	    7647	     66559.3
+    31	     1	    7240	     66517.7
+    32	     1	    6978	     66483.1
+    33	     1	    6830	     66449.4
+    34	     1	    6654	     66412.8
+    35	     1	    6525	     66368.4
+    36	     1	    6319	       66323
+    37	     1	    6332	     66282.1
+    38	     1	    6128	     66245.5
+    39	     1	    5911	     66213.1
+    40	     1	    5901	     66184.5
+    41	     1	    5721	     66158.9
+    42	     1	    5544	     66135.4
+    43	     1	    5250	     66115.3
+    44	     1	    5077	     66097.5
+    45	     1	    4840	     66081.3
+    46	     1	    4654	     66065.6
+    47	     1	    4377	     66051.6
+    48	     1	    4186	       66039
+    49	     1	    4044	     66027.2
+    50	     1	    3899	     66016.1
+    51	     1	    3646	       66007
+    52	     1	    3451	       65999
+    53	     1	    3324	     65991.6
+    54	     1	    3384	     65984.3
+    55	     1	    3334	       65977
+    56	     1	    3131	     65970.4
+    57	     1	    3102	     65963.5
+    58	     1	    3067	     65956.6
+    59	     1	    2985	     65949.9
+    60	     1	    2952	     65943.1
+    61	     1	    2871	     65936.6
+    62	     1	    2850	     65930.2
+    63	     1	    2790	     65923.8
+    64	     1	    2702	     65917.7
+    65	     1	    2658	       65912
+    66	     1	    2736	     65905.7
+    67	     1	    2672	     65897.9
+    68	     1	    2726	     65887.2
+    69	     1	    2803	     65867.6
+    70	     1	    2966	     65835.5
+    71	     1	    2964	     65803.5
+    72	     1	    2983	     65776.6
+    73	     1	    2917	     65754.2
+    74	     1	    2796	       65737
+    75	     1	    2648	     65723.2
+    76	     1	    2551	     65711.9
+    77	     1	    2420	     65703.2
+    78	     1	    2281	     65696.3
+    79	     1	    2131	     65690.3
+    80	     1	    2079	     65685.3
+    81	     1	    2079	     65680.8
+    82	     1	    2076	     65676.8
+    83	     1	    2094	     65673.2
+    84	     1	    2044	     65670.2
+    85	     1	    1961	     65667.5
+    86	     1	    1881	       65665
+    87	     1	    1949	     65662.6
+    88	     1	    1853	     65660.3
+    89	     1	    1763	     65658.3
+    90	     1	    1757	     65656.4
+    91	     1	    1727	     65654.5
+    92	     1	    1732	     65652.8
+    93	     1	    1722	       65651
+    94	     1	    1701	     65649.5
+    95	     1	    1694	     65647.9
+    96	     1	    1768	     65646.1
+    97	     1	    1693	     65644.5
+    98	     1	    1710	     65642.8
+    99	     1	    1707	     65641.1
+   100	     1	    1703	     65639.4
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 65639.4
+../DATA/Centroids/Phi_M_256_N_8
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  220556	      298662
+     2	     1	   54981	      246728
+     3	     1	   34323	      223892
+     4	     1	   25008	      210903
+     5	     1	   18997	      205496
+     6	     1	   15135	      201799
+     7	     1	   12770	      199804
+     8	     1	   11173	      197413
+     9	     1	    9565	      195881
+    10	     1	    8329	      195182
+    11	     1	    7428	      194222
+    12	     1	    6391	      193967
+    13	     1	    5908	      193786
+    14	     1	    5483	      193616
+    15	     1	    5179	      193444
+    16	     1	    4963	      193251
+    17	     1	    4827	      192970
+    18	     1	    4696	      192462
+    19	     1	    4488	      191473
+    20	     1	    4017	      191108
+    21	     1	    3549	      191006
+    22	     1	    3491	      190915
+    23	     1	    3433	      190815
+    24	     1	    3308	      190648
+    25	     1	    3258	      190209
+    26	     1	    3022	      190009
+    27	     1	    2765	      189962
+    28	     1	    2711	      189923
+    29	     1	    2676	      189885
+    30	     1	    2645	      189848
+    31	     1	    2580	      189816
+    32	     1	    2496	      189784
+    33	     1	    2526	      189752
+    34	     1	    2392	      189721
+    35	     1	    2261	      189692
+    36	     1	    2183	      189665
+    37	     1	    2201	      189635
+    38	     1	    2088	      189604
+    39	     1	    2090	      189569
+    40	     1	    2005	      189527
+    41	     1	    1940	      189475
+    42	     1	    1857	      189409
+    43	     1	    1852	      189349
+    44	     1	    1764	      189314
+    45	     1	    1689	      189289
+    46	     1	    1645	      189268
+    47	     1	    1627	      189248
+    48	     1	    1557	      189231
+    49	     1	    1509	      189217
+    50	     1	    1462	      189204
+    51	     1	    1385	      189193
+    52	     1	    1315	      189184
+    53	     1	    1257	      189176
+    54	     1	    1131	      189169
+    55	     1	    1128	      189163
+    56	     1	    1149	      189155
+    57	     1	    1141	      189148
+    58	     1	    1056	      189140
+    59	     1	     980	      189133
+    60	     1	     957	      189127
+    61	     1	     944	      189120
+    62	     1	     959	      189113
+    63	     1	    1026	      189105
+    64	     1	     971	      189099
+    65	     1	     907	      189092
+    66	     1	     873	      189086
+    67	     1	     858	      189080
+    68	     1	     800	      189074
+    69	     1	     745	      189069
+    70	     1	     747	      189063
+    71	     1	     831	      189057
+    72	     1	     826	      189050
+    73	     1	     788	      189044
+    74	     1	     748	      189039
+    75	     1	     794	      189035
+    76	     1	     745	      189031
+    77	     1	     740	      189028
+    78	     1	     762	      189025
+    79	     1	     722	      189023
+    80	     1	     708	      189022
+    81	     1	     708	      189020
+    82	     1	     712	      189018
+    83	     1	     690	      189016
+    84	     1	     674	      189013
+    85	     1	     628	      189011
+    86	     1	     637	      189008
+    87	     1	     605	      189005
+    88	     1	     542	      189003
+    89	     1	     529	      189001
+    90	     1	     471	      188999
+    91	     1	     443	      188997
+    92	     1	     461	      188996
+    93	     1	     477	      188994
+    94	     1	     473	      188992
+    95	     1	     509	      188990
+    96	     1	     483	      188988
+    97	     1	     524	      188986
+    98	     1	     536	      188983
+    99	     1	     530	      188981
+   100	     1	     542	      188978
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 188978
+../DATA/Centroids/Phi_M_256_N_16
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  107786	      499144
+     2	     1	   31568	      426556
+     3	     1	   16779	      403855
+     4	     1	   10501	      392920
+     5	     1	    7820	      385484
+     6	     1	    5944	      381471
+     7	     1	    4980	      378519
+     8	     1	    4498	      374938
+     9	     1	    3513	      372646
+    10	     1	    2814	      370889
+    11	     1	    2144	      369813
+    12	     1	    1685	      369129
+    13	     1	    1398	      368691
+    14	     1	    1161	      368443
+    15	     1	    1003	      368230
+    16	     1	     971	      367863
+    17	     1	     977	      367406
+    18	     1	     943	      367002
+    19	     1	     825	      366419
+    20	     1	     661	      366242
+    21	     1	     527	      366117
+    22	     1	     480	      366068
+    23	     1	     460	      366035
+    24	     1	     411	      366004
+    25	     1	     439	      365967
+    26	     1	     402	      365924
+    27	     1	     444	      365843
+    28	     1	     514	      365674
+    29	     1	     539	      365335
+    30	     1	     441	      365095
+    31	     1	     348	      365061
+    32	     1	     297	      365037
+    33	     1	     304	      365011
+    34	     1	     293	      364985
+    35	     1	     282	      364953
+    36	     1	     283	      364912
+    37	     1	     278	      364865
+    38	     1	     307	      364762
+    39	     1	     292	      364518
+    40	     1	     243	      364473
+    41	     1	     219	      364454
+    42	     1	     197	      364438
+    43	     1	     177	      364425
+    44	     1	     171	      364416
+    45	     1	     149	      364409
+    46	     1	     137	      364404
+    47	     1	     128	      364399
+    48	     1	     109	      364394
+    49	     1	     121	      364389
+    50	     1	     129	      364384
+    51	     1	     135	      364379
+    52	     1	     133	      364375
+    53	     1	     139	      364369
+    54	     1	     139	      364364
+    55	     1	     149	      364358
+    56	     1	     137	      364353
+    57	     1	     123	      364349
+    58	     1	     132	      364342
+    59	     1	     131	      364336
+    60	     1	     106	      364332
+    61	     1	      96	      364329
+    62	     1	      97	      364324
+    63	     1	      88	      364320
+    64	     1	      68	      364318
+    65	     1	      70	      364315
+    66	     1	      72	      364313
+    67	     1	      81	      364310
+    68	     1	      87	      364307
+    69	     1	      78	      364304
+    70	     1	      81	      364301
+    71	     1	      83	      364298
+    72	     1	      84	      364295
+    73	     1	      72	      364292
+    74	     1	      65	      364290
+    75	     1	      59	      364287
+    76	     1	      48	      364286
+    77	     1	      38	      364285
+    78	     1	      32	      364284
+    79	     1	      36	      364283
+    80	     1	      32	      364282
+    81	     1	      28	      364281
+    82	     1	      29	      364280
+    83	     1	      26	      364280
+    84	     1	      24	      364279
+    85	     1	      24	      364279
+    86	     1	      22	      364278
+    87	     1	      20	      364277
+    88	     1	      24	      364277
+    89	     1	      24	      364276
+    90	     1	      15	      364276
+    91	     1	      17	      364275
+    92	     1	      11	      364275
+    93	     1	      15	      364275
+    94	     1	      18	      364274
+    95	     1	      21	      364274
+    96	     1	      20	      364273
+    97	     1	      18	      364273
+    98	     1	      18	      364272
+    99	     1	      16	      364272
+   100	     1	      14	      364272
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 364272
+../DATA/Centroids/Phi_M_256_N_32
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	   51340	      772239
+     2	     1	   19643	      675346
+     3	     1	   10665	      636756
+     4	     1	    6695	      621503
+     5	     1	    4046	      615557
+     6	     1	    2609	      612807
+     7	     1	    1853	      611132
+     8	     1	    1391	      609765
+     9	     1	    1027	      608983
+    10	     1	     736	      608574
+    11	     1	     551	      608367
+    12	     1	     467	      608172
+    13	     1	     416	      607931
+    14	     1	     377	      607745
+    15	     1	     374	      607564
+    16	     1	     348	      607311
+    17	     1	     294	      607003
+    18	     1	     209	      606924
+    19	     1	     155	      606880
+    20	     1	     144	      606834
+    21	     1	     135	      606771
+    22	     1	     164	      606664
+    23	     1	     148	      606589
+    24	     1	     135	      606530
+    25	     1	     110	      606472
+    26	     1	     108	      606389
+    27	     1	      92	      606347
+    28	     1	      66	      606335
+    29	     1	      58	      606324
+    30	     1	      51	      606316
+    31	     1	      52	      606305
+    32	     1	      63	      606294
+    33	     1	      61	      606282
+    34	     1	      53	      606272
+    35	     1	      53	      606264
+    36	     1	      59	      606254
+    37	     1	      48	      606246
+    38	     1	      47	      606238
+    39	     1	      34	      606232
+    40	     1	      30	      606227
+    41	     1	      24	      606224
+    42	     1	      27	      606219
+    43	     1	      31	      606214
+    44	     1	      34	      606208
+    45	     1	      34	      606203
+    46	     1	      22	      606199
+    47	     1	      26	      606196
+    48	     1	      26	      606192
+    49	     1	      20	      606188
+    50	     1	      26	      606183
+    51	     1	      22	      606180
+    52	     1	      16	      606177
+    53	     1	      11	      606175
+    54	     1	      15	      606172
+    55	     1	      18	      606170
+    56	     1	      18	      606168
+    57	     1	      12	      606166
+    58	     1	      11	      606165
+    59	     1	      10	      606163
+    60	     1	      13	      606160
+    61	     1	      17	      606157
+    62	     1	      12	      606156
+    63	     1	       7	      606155
+    64	     1	       6	      606154
+    65	     1	       7	      606153
+    66	     1	       3	      606152
+    67	     1	       6	      606152
+    68	     1	       3	      606151
+    69	     1	       5	      606151
+    70	     1	       4	      606150
+    71	     1	       2	      606150
+    72	     1	       4	      606150
+    73	     2	     627	      605279
+    74	     2	     442	      604950
+    75	     2	     318	      604766
+    76	     2	     261	      604691
+    77	     2	     236	      604668
+    78	     2	     189	      604619
+    79	     2	     160	      604609
+    80	     2	     158	      604596
+    81	     2	     146	      604587
+    82	     2	     117	      604582
+    83	     2	     127	      604570
+    84	     2	     106	      604561
+    85	     2	      88	      604554
+    86	     2	      90	      604548
+    87	     2	      86	      604544
+    88	     2	     108	      604539
+    89	     2	      96	      604531
+    90	     2	     107	      604521
+    91	     2	     111	      604506
+    92	     2	     116	      604486
+    93	     2	     139	      604452
+    94	     2	     179	      604398
+    95	     2	     171	      604365
+    96	     2	     119	      604353
+    97	     2	      82	      604349
+    98	     2	      66	      604347
+    99	     2	      48	      604345
+   100	     2	      39	      604344
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 604344
+>> 

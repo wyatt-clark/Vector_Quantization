@@ -1,0 +1,102 @@
+2013-05-15 23:40:22.590 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.591 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.592 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.593 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.594 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.596 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.597 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.598 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.599 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.600 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.601 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.602 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.603 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.604 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.610 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.616 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.617 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.618 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:22.621 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                     R2012b (8.0.0.783) 64-bit (maci64)
+                              August 22, 2012
+
+2013-05-15 23:40:24.967 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.969 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.970 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.971 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.972 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.974 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.975 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.977 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.978 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.980 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.982 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.984 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.985 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.987 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.988 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.989 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.991 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.992 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.994 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.995 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.996 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.997 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:24.998 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.000 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.001 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.003 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.004 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.005 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.006 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.007 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.008 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.010 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.011 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.013 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.014 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.015 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.016 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.017 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.018 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.019 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2013-05-15 23:40:25.020 MATLAB_maci64[676:9103] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> ../../GO/DATA/Centroids/PDBDisorder_M_4_N_2_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4_N_4_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4_N_8_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4_N_16_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4_N_32_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_16_N_2_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_16_N_4_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_16_N_8_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_16_N_16_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_16_N_32_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_64_N_2_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_64_N_4_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_64_N_8_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_64_N_16_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_64_N_32_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_256_N_2_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_256_N_4_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_256_N_8_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_256_N_16_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_256_N_32_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_1024_N_2_GOsm
+2013-05-15 23:50:22.019 MATLAB_maci64[676:a00f] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+../../GO/DATA/Centroids/PDBDisorder_M_1024_N_4_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_1024_N_8_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_1024_N_16_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_1024_N_32_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4096_N_2_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4096_N_4_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4096_N_8_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4096_N_16_GOsm
+../../GO/DATA/Centroids/PDBDisorder_M_4096_N_32_GOsm
+>> 

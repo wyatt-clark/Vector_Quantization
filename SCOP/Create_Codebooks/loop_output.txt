@@ -1,0 +1,519 @@
+2012-05-17 11:35:55.379 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.381 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.382 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.382 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.383 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.384 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.385 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.386 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.387 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.388 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.424 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.425 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.426 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.427 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.435 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.442 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.443 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.444 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:55.447 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2010 The MathWorks, Inc.
+                Version 7.12.0.635 (R2011a) 64-bit (maci64)
+                               March 18, 2011
+
+2012-05-17 11:35:57.191 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.193 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.195 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.195 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.197 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.198 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.200 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.202 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.204 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.206 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.208 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.209 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.211 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.213 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.214 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.216 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.218 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.219 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.220 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.221 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.222 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.223 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.224 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.227 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.228 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.229 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.230 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.231 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.232 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.234 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.235 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.236 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.237 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.238 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.240 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.241 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.242 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.243 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.245 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.246 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.247 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.248 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+2012-05-17 11:35:57.249 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+ 
+  To get started, type one of these: helpwin, helpdesk, or demo.
+  For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+properties = 
+
+    'Loop'
+
+>> >> ../DATA/Centroids/Loop_M_1024_N_4
+starting to cluster
+2012-05-17 11:36:00.135 MATLAB_maci64[7097:8d03] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+  iter	 phase	     num	         sum
+     1	     1	  456152	     42796.3
+     2	     1	   86835	     39394.9
+     3	     1	   50946	     38077.5
+     4	     1	   37515	     37282.9
+     5	     1	   30281	     36735.7
+     6	     1	   25627	     36334.4
+     7	     1	   22729	     36022.2
+     8	     1	   20347	     35773.4
+     9	     1	   18638	     35568.5
+    10	     1	   17574	     35388.5
+    11	     1	   16596	     35223.7
+    12	     1	   15672	     35079.8
+    13	     1	   14859	     34946.4
+    14	     1	   14199	     34823.4
+    15	     1	   13796	     34708.8
+    16	     1	   13236	     34601.7
+    17	     1	   12796	     34502.9
+    18	     1	   12436	     34409.8
+    19	     1	   12268	     34321.1
+    20	     1	   12010	       34234
+    21	     1	   11659	     34150.8
+    22	     1	   11428	     34072.6
+    23	     1	   11127	     33997.8
+    24	     1	   10877	     33926.8
+    25	     1	   10773	     33856.9
+    26	     1	   10550	     33790.5
+    27	     1	   10565	     33725.6
+    28	     1	   10406	     33663.3
+    29	     1	   10365	     33601.6
+    30	     1	   10067	     33539.7
+    31	     1	    9859	     33482.3
+    32	     1	    9676	     33428.3
+    33	     1	    9501	     33376.8
+    34	     1	    9123	     33327.9
+    35	     1	    9059	     33280.5
+2012-05-17 11:45:55.018 MATLAB_maci64[7097:a527] This process is attempting to exclude an item from Time Machine by path without administrator privileges. This is not supported.
+    36	     1	    9048	     33233.3
+    37	     1	    9201	     33187.5
+    38	     1	    9056	     33141.7
+    39	     1	    8830	     33098.3
+    40	     1	    8692	     33058.6
+    41	     1	    8466	     33020.4
+    42	     1	    8244	     32984.3
+    43	     1	    7923	     32950.9
+    44	     1	    7852	     32918.7
+    45	     1	    7762	     32886.9
+    46	     1	    7709	     32855.1
+    47	     1	    7652	       32824
+    48	     1	    7470	     32794.7
+    49	     1	    7457	     32766.3
+    50	     1	    7290	       32739
+    51	     1	    7328	     32711.9
+    52	     1	    7440	       32685
+    53	     1	    7329	     32658.3
+    54	     1	    7413	       32631
+    55	     1	    7319	     32603.7
+    56	     1	    7545	     32575.8
+    57	     1	    7379	     32548.6
+    58	     1	    7277	     32521.8
+    59	     1	    7072	     32495.6
+    60	     1	    7174	     32467.3
+    61	     1	    7073	     32440.9
+    62	     1	    7098	     32414.2
+    63	     1	    7037	     32385.7
+    64	     1	    7054	     32359.4
+    65	     1	    6992	     32334.8
+    66	     1	    7095	       32310
+    67	     1	    7012	       32286
+    68	     1	    7077	     32261.6
+    69	     1	    7002	     32236.6
+    70	     1	    7107	     32211.4
+    71	     1	    7076	     32187.1
+    72	     1	    6987	     32162.3
+    73	     1	    6979	     32137.2
+    74	     1	    6747	     32112.8
+    75	     1	    6726	     32088.3
+    76	     1	    6635	     32064.3
+    77	     1	    6760	     32040.1
+    78	     1	    6779	     32015.4
+    79	     1	    6764	     31990.1
+    80	     1	    6595	     31965.2
+    81	     1	    6695	     31939.6
+    82	     1	    6797	     31913.6
+    83	     1	    6921	     31887.5
+    84	     1	    6866	     31861.2
+    85	     1	    6978	     31834.6
+    86	     1	    6718	       31810
+    87	     1	    6629	       31786
+    88	     1	    6670	     31761.5
+    89	     1	    6654	     31737.6
+    90	     1	    6526	     31713.5
+    91	     1	    6452	     31690.2
+    92	     1	    6380	     31667.9
+    93	     1	    6348	     31645.1
+    94	     1	    6307	     31622.9
+    95	     1	    6305	     31601.3
+    96	     1	    6525	     31578.6
+    97	     1	    6412	     31557.7
+    98	     1	    6376	     31536.6
+    99	     1	    6512	     31515.3
+   100	     1	    6508	     31494.2
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 31494.2
+../DATA/Centroids/Loop_M_1024_N_8
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  225532	      133959
+     2	     1	   55408	      123040
+     3	     1	   30761	      119247
+     4	     1	   21725	      117237
+     5	     1	   17049	      115936
+     6	     1	   14071	      115002
+     7	     1	   12255	      114275
+     8	     1	   10962	      113696
+     9	     1	    9842	      113233
+    10	     1	    8800	      112846
+    11	     1	    8394	      112500
+    12	     1	    7837	      112193
+    13	     1	    7263	      111923
+    14	     1	    6998	      111680
+    15	     1	    6524	      111461
+    16	     1	    6236	      111265
+    17	     1	    5969	      111084
+    18	     1	    5614	      110921
+    19	     1	    5309	      110774
+    20	     1	    5157	      110637
+    21	     1	    5039	      110507
+    22	     1	    4757	      110387
+    23	     1	    4673	      110268
+    24	     1	    4520	      110155
+    25	     1	    4240	      110053
+    26	     1	    4183	      109956
+    27	     1	    4060	      109862
+    28	     1	    3908	      109772
+    29	     1	    3773	      109693
+    30	     1	    3577	      109617
+    31	     1	    3585	      109544
+    32	     1	    3483	      109475
+    33	     1	    3374	      109410
+    34	     1	    3327	      109346
+    35	     1	    3229	      109285
+    36	     1	    3104	      109229
+    37	     1	    3104	      109173
+    38	     1	    3085	      109118
+    39	     1	    3017	      109065
+    40	     1	    3022	      109013
+    41	     1	    2923	      108960
+    42	     1	    2813	      108911
+    43	     1	    2752	      108865
+    44	     1	    2713	      108820
+    45	     1	    2698	      108777
+    46	     1	    2620	      108737
+    47	     1	    2569	      108696
+    48	     1	    2556	      108655
+    49	     1	    2441	      108616
+    50	     1	    2438	      108578
+    51	     1	    2405	      108538
+    52	     1	    2256	      108503
+    53	     1	    2187	      108470
+    54	     1	    2232	      108436
+    55	     1	    2154	      108402
+    56	     1	    2088	      108369
+    57	     1	    2116	      108339
+    58	     1	    2044	      108312
+    59	     1	    1982	      108286
+    60	     1	    1810	      108262
+    61	     1	    1786	      108239
+    62	     1	    1745	      108217
+    63	     1	    1713	      108195
+    64	     1	    1708	      108174
+    65	     1	    1679	      108154
+    66	     1	    1700	      108133
+    67	     1	    1623	      108114
+    68	     1	    1609	      108095
+    69	     1	    1634	      108075
+    70	     1	    1589	      108056
+    71	     1	    1499	      108038
+    72	     1	    1539	      108019
+    73	     1	    1573	      108000
+    74	     1	    1520	      107981
+    75	     1	    1434	      107964
+    76	     1	    1429	      107947
+    77	     1	    1366	      107930
+    78	     1	    1347	      107913
+    79	     1	    1377	      107895
+    80	     1	    1356	      107876
+    81	     1	    1302	      107860
+    82	     1	    1265	      107845
+    83	     1	    1229	      107829
+    84	     1	    1203	      107814
+    85	     1	    1210	      107799
+    86	     1	    1219	      107785
+    87	     1	    1131	      107773
+    88	     1	    1115	      107761
+    89	     1	    1108	      107749
+    90	     1	    1113	      107736
+    91	     1	    1087	      107723
+    92	     1	    1105	      107711
+    93	     1	    1101	      107699
+    94	     1	    1144	      107685
+    95	     1	    1097	      107672
+    96	     1	    1111	      107660
+    97	     1	    1131	      107647
+    98	     1	    1097	      107634
+    99	     1	    1057	      107623
+   100	     1	    1040	      107612
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 107612
+../DATA/Centroids/Loop_M_1024_N_16
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	  110245	      315380
+     2	     1	   31569	      289919
+     3	     1	   15757	      282456
+     4	     1	   10721	      278658
+     5	     1	    8017	      276234
+     6	     1	    6499	      274538
+     7	     1	    5339	      273288
+     8	     1	    4657	      272290
+     9	     1	    3974	      271492
+    10	     1	    3498	      270850
+    11	     1	    3108	      270321
+    12	     1	    2797	      269863
+    13	     1	    2433	      269493
+    14	     1	    2257	      269153
+    15	     1	    2109	      268850
+    16	     1	    1956	      268585
+    17	     1	    1824	      268346
+    18	     1	    1697	      268118
+    19	     1	    1537	      267925
+    20	     1	    1406	      267747
+    21	     1	    1288	      267588
+    22	     1	    1158	      267458
+    23	     1	    1093	      267336
+    24	     1	    1020	      267229
+    25	     1	     990	      267127
+    26	     1	     879	      267041
+    27	     1	     826	      266955
+    28	     1	     770	      266879
+    29	     1	     759	      266805
+    30	     1	     710	      266729
+    31	     1	     681	      266662
+    32	     1	     649	      266602
+    33	     1	     611	      266542
+    34	     1	     560	      266488
+    35	     1	     545	      266439
+    36	     1	     525	      266390
+    37	     1	     511	      266346
+    38	     1	     466	      266311
+    39	     1	     413	      266278
+    40	     1	     390	      266248
+    41	     1	     349	      266222
+    42	     1	     338	      266197
+    43	     1	     335	      266171
+    44	     1	     270	      266153
+    45	     1	     300	      266133
+    46	     1	     273	      266115
+    47	     1	     295	      266096
+    48	     1	     268	      266080
+    49	     1	     244	      266066
+    50	     1	     217	      266052
+    51	     1	     202	      266039
+    52	     1	     184	      266028
+    53	     1	     173	      266017
+    54	     1	     163	      266006
+    55	     1	     168	      265995
+    56	     1	     170	      265984
+    57	     1	     159	      265974
+    58	     1	     139	      265966
+    59	     1	     141	      265958
+    60	     1	     144	      265949
+    61	     1	     132	      265941
+    62	     1	     139	      265933
+    63	     1	     150	      265925
+    64	     1	     130	      265917
+    65	     1	     118	      265912
+    66	     1	     115	      265905
+    67	     1	     110	      265900
+    68	     1	      99	      265894
+    69	     1	     114	      265888
+    70	     1	     104	      265883
+    71	     1	      97	      265877
+    72	     1	      94	      265871
+    73	     1	      94	      265863
+    74	     1	      87	      265857
+    75	     1	      78	      265852
+    76	     1	      71	      265848
+    77	     1	      72	      265842
+    78	     1	      59	      265835
+    79	     1	      64	      265828
+    80	     1	      74	      265820
+    81	     1	      61	      265814
+    82	     1	      47	      265811
+    83	     1	      39	      265809
+    84	     1	      41	      265807
+    85	     1	      40	      265805
+    86	     1	      41	      265803
+    87	     1	      54	      265800
+    88	     1	      56	      265797
+    89	     1	      51	      265794
+    90	     1	      53	      265790
+    91	     1	      45	      265789
+    92	     1	      37	      265788
+    93	     1	      41	      265786
+    94	     1	      37	      265785
+    95	     1	      27	      265784
+    96	     1	      20	      265783
+    97	     1	      17	      265782
+    98	     1	      15	      265782
+    99	     1	      13	      265781
+   100	     1	      12	      265781
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 265781
+../DATA/Centroids/Loop_M_1024_N_32
+starting to cluster
+  iter	 phase	     num	         sum
+     1	     1	   52565	      595174
+     2	     1	   16274	      551379
+     3	     1	    7485	      538379
+     4	     1	    4758	      531830
+     5	     1	    3498	      527730
+     6	     1	    2649	      524876
+     7	     1	    1966	      522995
+     8	     1	    1599	      521556
+     9	     1	    1344	      520433
+    10	     1	    1177	      519470
+    11	     1	     955	      518716
+    12	     1	     816	      518101
+    13	     1	     749	      517602
+    14	     1	     638	      517177
+    15	     1	     545	      516825
+    16	     1	     452	      516530
+    17	     1	     427	      516245
+    18	     1	     359	      516032
+    19	     1	     295	      515876
+    20	     1	     244	      515737
+    21	     1	     216	      515618
+    22	     1	     195	      515519
+    23	     1	     193	      515419
+    24	     1	     166	      515334
+    25	     1	     137	      515264
+    26	     1	     136	      515184
+    27	     1	     138	      515116
+    28	     1	     126	      515054
+    29	     1	      96	      515012
+    30	     1	      80	      514974
+    31	     1	      82	      514932
+    32	     1	      79	      514890
+    33	     1	      75	      514848
+    34	     1	      59	      514820
+    35	     1	      49	      514794
+    36	     1	      47	      514769
+    37	     1	      54	      514743
+    38	     1	      52	      514720
+    39	     1	      39	      514705
+    40	     1	      39	      514690
+    41	     1	      45	      514669
+    42	     1	      30	      514653
+    43	     1	      21	      514643
+    44	     1	      21	      514636
+    45	     1	      11	      514633
+    46	     1	       6	      514631
+    47	     1	       3	      514631
+    48	     2	    3286	      513130
+    49	     2	    2871	      511825
+    50	     2	    2559	      510701
+    51	     2	    2113	      509870
+    52	     2	    1828	      509212
+    53	     2	    1600	      508747
+    54	     2	    1436	      508364
+    55	     2	    1211	      508095
+    56	     2	    1091	      507843
+    57	     2	     966	      507620
+    58	     2	     837	      507430
+    59	     2	     789	      507247
+    60	     2	     722	      507097
+    61	     2	     700	      506955
+    62	     2	     646	      506838
+    63	     2	     539	      506733
+    64	     2	     467	      506654
+    65	     2	     425	      506582
+    66	     2	     357	      506525
+    67	     2	     321	      506467
+    68	     2	     288	      506415
+    69	     2	     303	      506363
+    70	     2	     254	      506313
+    71	     2	     244	      506276
+    72	     2	     268	      506235
+    73	     2	     233	      506204
+    74	     2	     208	      506158
+    75	     2	     205	      506124
+    76	     2	     205	      506091
+    77	     2	     214	      506046
+    78	     2	     201	      506010
+    79	     2	     222	      505969
+    80	     2	     195	      505936
+    81	     2	     175	      505897
+    82	     2	     154	      505875
+    83	     2	     158	      505856
+    84	     2	     160	      505837
+    85	     2	     154	      505814
+    86	     2	     138	      505788
+    87	     2	     124	      505765
+    88	     2	     123	      505721
+    89	     2	     108	      505704
+    90	     2	      84	      505691
+    91	     2	      84	      505682
+    92	     2	      82	      505672
+    93	     2	      54	      505668
+    94	     2	      47	      505665
+    95	     2	      67	      505658
+    96	     2	      61	      505650
+    97	     2	      47	      505639
+    98	     2	      46	      505634
+    99	     2	      32	      505631
+   100	     2	      19	      505629
+{Warning: Failed to converge in 100 iterations.} 
+> In kmeans at 328
+  In create_code_book at 67
+100 iterations, total sum of distances = 505629
+{??? Error using ==> uiimport at 197
+File 'BFactor_M_16_N_2_other.mat' not found.
+} 
+May 17 13:39:44 dhcp-cs-244-35.cs.indiana.edu MATLAB_maci64[7097] <Error>: CGContextGetCTM: invalid context 0x0
+May 17 13:39:44 dhcp-cs-244-35.cs.indiana.edu MATLAB_maci64[7097] <Error>: CGContextSetBaseCTM: invalid context 0x0
+May 17 13:39:44 dhcp-cs-244-35.cs.indiana.edu MATLAB_maci64[7097] <Error>: CGContextGetCTM: invalid context 0x0
+May 17 13:39:44 dhcp-cs-244-35.cs.indiana.edu MATLAB_maci64[7097] <Error>: CGContextSetBaseCTM: invalid context 0x0
+May 17 13:39:44 dhcp-cs-244-35.cs.indiana.edu MATLAB_maci64[7097] <Error>: CGContextGetCTM: invalid context 0x0
+May 17 13:39:44 dhcp-cs-244-35.cs.indiana.edu MATLAB_maci64[7097] <Error>: CGContextSetBaseCTM: invalid context 0x0
+May 17 13:39:44 dhcp-cs-244-35.cs.indiana.edu MATLAB_maci64[7097] <Error>: CGContextGetCTM: invalid context 0x0
+May 17 13:39:44 dhcp-cs-244-35.cs.indiana.edu MATLAB_maci64[7097] <Error>: CGContextSetBaseCTM: invalid context 0x0
+>> 
